@@ -127,7 +127,7 @@ If you're interested in learning more about the OpenTracing standard, please vis
 
 ## License
 
-[Apache 2.0 License](./LICENSE).
+[BSD License](./LICENSE).
 
 .. _opentracing.io: http://opentracing.io/
 .. _join the mailing list: http://opentracing.us13.list-manage.com/subscribe?u=180afe03860541dae59e84153&id=19117aa6cd
